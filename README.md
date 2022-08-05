@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0neab0veall
 - 👀 I’m interested in ... Ai
 - 🌱 I’m currently learning ... Full stack 
-- 💞️ I’m looking to collaborate on ... Projects to build my knowlodge
+- 💞️ I’m looking to collaborate on ... Projects to help me expand  my knowledge
 - 📫 How to reach me ... here on github
 
 <!---
